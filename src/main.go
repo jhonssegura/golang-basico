@@ -51,4 +51,5 @@ func main() {
 	message := fmt.Sprintf("%s tiene mas de %d cursos\n", nombre, cursos)
 	fmt.Printf(message)
 
+	fmt.Printf("2, %T", 2)
 }
